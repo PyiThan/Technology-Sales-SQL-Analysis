@@ -2,6 +2,9 @@
 
 Analyzing technology sales data.
 
+## ERD Diagram for the dataset
+<img src= "./Image/ERD">
+
 
 
 
